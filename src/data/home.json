@@ -1,0 +1,78 @@
+{
+  "name": "Lucien Chauvin",
+  "photoUrl": "Image_moi_louvre.jpeg",
+  "intro": "Embedded system engineer with a passion for aerospace and space exploration. <p> I like working on constraints and critical systems where optimization is key. </p>",
+  "introHtml": "I like working on constraints and critical systems where optimization is key. Mention your core , your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
+  "webpageTitle": "Lucien Chauvin",
+  "resumeUrl": "https://raw.githubusercontent.com/LucienCH/CV_PDF/main/CV_Lucien_Chauvin.pdf",
+
+  "_comment": "Add your social links below. Leave the 'url' empty to hide the icon. Set 'showInContact' to true or false to control if it appears in the Contact section.",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/LucienCH",
+      "icon": "mdi:github",
+      "showInContact": true
+    },
+    {
+      "name": "Gitlab",
+      "url": "https://gitlab.com/LucienCH",
+      "icon": "mdi:gitlab",
+      "showInContact": true
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/lucien-chauvin/",
+      "icon": "mdi:linkedin",
+      "showInContact": true
+    },
+    {
+      "name": "Leetcode",
+      "url": "#",
+      "icon": "devicon-plain:leetcode",
+      "showInContact": false
+    },
+    {
+      "name": "Behance",
+      "url": "#",
+      "icon": "devicon-plain:behance",
+      "showInContact": false
+    },
+    {
+      "name": "Email",
+      "url": "mailto:chauvin.lucien@protonmail.com",
+      "icon": "mdi:email",
+      "showInContact": true
+    },
+    {
+      "name": "Whatsapp",
+      "url": "#",
+      "icon": "mdi:whatsapp",
+      "showInContact": true
+    },
+    {
+      "name": "Facebook",
+      "url": "#",
+      "icon": "mdi:facebook",
+      "showInContact": false
+    },
+    {
+      "name": "Messenger",
+      "url": "#",
+      "icon": "mdi:facebook-messenger",
+      "showInContact": true
+    },
+    {
+      "name": "Instagram",
+      "url": "#",
+      "icon": "mdi:instagram",
+      "showInContact": false
+    },
+    {
+      "name": "Twitter",
+      "url": "#",
+      "icon": "mdi:twitter",
+      "showInContact": false
+    }
+  ]
+}

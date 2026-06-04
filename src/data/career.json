@@ -1,0 +1,26 @@
+[
+  {
+    "company": "LISV",
+    "role": "Embedded system engineer and optcial communication",
+    "period": "May 2026 - Present",
+    "type": "Full time job",
+    "description": "Writing low level code for embedded systems and optical communication projects. Creating library for liquid lenses used in a laser based communication between satellites.",
+    "skills": ["C/C++", "Python", "Optical Communication", "Embedded Systems", "Liquid Lenses"]
+  },
+  {
+    "company": "Stäubli Faverges, France",
+    "role": "Embedded software engineer",
+    "period": "Sep 2022 - Sep 2025",
+    "type": "Apprenticeship",
+    "description": "Evaluating the feasibility of using linux with PREEMPT_RT patch to replace QNX as the operating system of the textile machine controller. Writing low level code for embedded systems and creating a library to interface with the machine's hardware. Making custom Linux distribution with yocto as well as custom driver to evaluate the behaviour of the OS.",
+    "skills": ["C/C++", "Python", "Embedded Systems", "Linux", "Yocto", "QNX"]
+  },
+  {
+    "company": "Stäubli Sargans, Switzerland",
+    "role": "Embedded software engineer for r&d",
+    "period": "May 2023 - Aug 2023",
+    "type": "internship",
+    "description": "Creating software used in r&d (in textile industry) for strings detection with camera censor and capacitiv sensors. Writted in C++ with QT/QML for the UI and OpenCV for the image processing.",
+    "skills": ["C++", "QT/QML", "OpenCV", "Project Management"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Drone to detect electromagnetic sources",
+    "description": "This was a engeeniring school project. We had to build a drone to deteect a radio frequency source at 457Khz. We used ardupilot for the autonomous flight and radio anthena for the detection. We had to do a lot of research to find the right components and to make the drone fly autonomously. We also had to do a lot of testing to make sure that the drone was able to detect the source and to fly correctly.",
+    "images": ["drone.gif"],
+    "tech": ["Drones", "Ardupilot", "Radio Frequency", "Antenna"],
+    "platforms": ["laptop"],
+    "link": "#",
+    "category": "Project at school"
+  },
+  {
+    "title": "Game of Life in SDL2",
+    "description": "A 2D implementation of the Game of Life built with C and SDL2.",
+    "images": ["gameoflife.gif"],
+    "tech": ["C", "SDL2"],
+    "platforms": ["laptop"],
+    "link": "https://github.com/LucienCH/game_of_life_SDL2",
+    "category": "Project at school"
+  },
+  {
+    "title": "Tactis Arena",
+    "description": "A 2D isometric multiplayer game built with C and SDL2. University project with a team of 4. The player control a team of characters with different abilities and fight against other players in an arena which have the same characters as the player.",
+    "images": ["tactics_arena.png"],
+    "tech": ["C", "SDL2"],
+    "platforms": ["laptop"],
+    "link": "https://github.com/LucienCH/Tactis_Arena/tree/main",
+    "category": "Project at school"
+  }
+]

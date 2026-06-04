@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "title": "Development",
+      "skills": [
+        { "name": "C", "level": 3, "icon": "skill-icons:c" },
+        { "name": "C++", "level": 3, "icon": "skill-icons:cpp" },
+        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" }
+        
+      ]
+    },
+    {
+      "title": "OS & Environments",
+      "skills": [
+        { "name": "Linux", "level": 3, "icon": "skill-icons:linux-dark" },
+        { "name": "Debian", "level": 3, "icon": "skill-icons:debian-dark" },
+        { "name": "VS Code", "level": 3, "icon": "skill-icons:vscode-dark" }
+      ]
+    },
+    {
+      "title": "Tools & Build Systems",
+      "skills": [
+        { "name": "Git", "level": 3, "icon": "skill-icons:git" },
+        { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
+        { "name": "CMake", "level": 2, "icon": "skill-icons:cmake-dark" },
+        { "name": "Vim", "level": 2, "icon": "skill-icons:vim-dark" }
+      ]
+    }
+  ]
+}
