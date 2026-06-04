@@ -9,7 +9,7 @@ import icon from 'astro-icon';
 export default defineConfig({
   // site: '#',
   site: 'https://lucienchauvin.github.io',
-  base: '/absent-apogee/',
+  base: '/website/',
   // base: '/',
   vite: {
     plugins: [tailwindcss()]
