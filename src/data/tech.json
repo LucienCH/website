@@ -6,7 +6,9 @@
         { "name": "C", "level": 3, "icon": "skill-icons:c" },
         { "name": "C++", "level": 3, "icon": "skill-icons:cpp" },
         { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" }
+        { "name": "Java", "level": 2, "icon": "skill-icons:java-dark" },
+        { "name": "Rust", "level": 1, "icon": "skill-icons:rust" }
+        
         
       ]
     },
@@ -15,7 +17,7 @@
       "skills": [
         { "name": "Linux", "level": 3, "icon": "skill-icons:linux-dark" },
         { "name": "Debian", "level": 3, "icon": "skill-icons:debian-dark" },
-        { "name": "VS Code", "level": 3, "icon": "skill-icons:vscode-dark" }
+        { "name": "VS Code", "level": 2, "icon": "skill-icons:vscode-dark" }
       ]
     },
     {
