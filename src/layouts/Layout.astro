@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css'
 import { SITE_CONFIG } from '../config.ts';
+import rocketIcon from '../assets/rocket.png';
 
 interface Props {
   title: string;
@@ -17,7 +18,7 @@ const defaultTheme = `${baseTheme}-dark`;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/x-icon" href={"src/assets/glyphs-poly--rocket.png"} />
+    <link rel="icon" type="image/png" href={rocketIcon.src} />
     
     <title>{title}</title>
 
