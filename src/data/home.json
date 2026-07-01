@@ -1,8 +1,8 @@
 {
   "name": "Lucien Chauvin",
   "photoUrl": "Image_moi_louvre.jpeg",
-  "intro": "Embedded system engineer with a passion for aerospace and space exploration. <p> I like working on critical systems with constraints where optimization not an option. </p>",
-  "introHtml": "Embedded system engineer with a passion for aerospace and space exploration. <p> I like working on critical systems with constraints where optimization not an option. </p>",
+  "intro": "Embedded system engineer with a passion for aerospace and space exploration. <p> I like working on critical systems with constraints where optimization is not an option. </p>",
+  "introHtml": "Embedded system engineer with a passion for aerospace and space exploration. <p> I like working on critical systems with constraints where optimization is not an option. </p>",
   "webpageTitle": "Lucien Chauvin",
   "resumeUrl": "https://raw.githubusercontent.com/LucienCH/CV_PDF/main/CV_Lucien_Chauvin.pdf",
 
